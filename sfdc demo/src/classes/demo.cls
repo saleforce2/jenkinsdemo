@@ -2,7 +2,7 @@ public with sharing class demo {
 	
 	public static string getName(){
 		
-		return 'test1';
+		return 'test2 sandip';
 	
 	}    
 }
